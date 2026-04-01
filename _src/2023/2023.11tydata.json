@@ -1,0 +1,47 @@
+{
+  "title": "2023",
+  "prevGallery": "2020-2022",
+  "nextGallery": "2024",
+  "files": [
+    {
+      "filename": "2023_BRHF_poster",
+      "extension": "png",
+      "folder": "2023",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2023/",
+      "item": "Bristol Radical History Festival 2023 poster.",
+      "notes": "The poster features 'A Garland for May Day' by Walter Crane (1845&ndash;1915), 1895.",
+      "categories": ["festivals", "posters"]
+    },
+    {
+      "filename": "2023_BRHF_flyer",
+      "extension": "png",
+      "folder": "2023",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2023/",
+      "item": "Bristol Radical History Festival 2023 flyer.",
+      "notes": "features 'A Garland for May Day' by Walter Crane (1845&ndash;1915), 1895.",
+      "categories": ["festivals", "flyers"]
+    },
+    {
+      "filename": "2023_SBHF_poster",
+      "extension": "jpg",
+      "folder": "2023",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/south-bristol-history-festival-september-november-2022/",
+      "item": "South Bristol History Festival 2023 poster.",
+      "notes": "",
+      "categories": ["festivals", "posters"]
+    },
+    {
+      "filename": "2023_Misc",
+      "extension": "jpg",
+      "folder": "2023",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2023/",
+      "item": "Web-poster for the miscellaneous 2023 event series.",
+      "notes": "Adapted from a detail of <a href='https://www.billguilding.co.uk/' target='_blank'>Bill Guilding's</a> mural on Stapleton Road Railway Station, Bristol. The image shows striking women workers from the Great Western Cotton Works, Barton Hill, in 1889. The same image was used for the covers of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/bristol-strike-wave-pt1/' target='brhg'><i>The Bristol Strike Wave of 1889-1890 Part 1</i></a>.",
+      "categories": ["misc", "posters"]
+    }
+  ]
+}

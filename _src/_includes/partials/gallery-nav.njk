@@ -1,0 +1,29 @@
+     {% if tags and "category" in tags %}
+      {% set prevGallery = cat.prevGallery %}
+      {% set nextGallery = cat.nextGallery %}
+     {% endif %}
+      
+      <nav class="gallery__nav">
+        {% if tags and ("gallery" in tags or "category" in tags) %}
+          <div class="gallery__nav-item">
+            {% if prevGallery | length %}
+              <a href="/{{ prevGallery }}/" class="gallery__nav-link">
+                <span class="gallery__nav-arrow gallery__nav-arrow--prev"></span> Previous Gallery
+              </a>
+            {% endif %}
+          </div>
+          <div class="gallery__nav-item">
+            {% if nextGallery | length %}
+              <a href="/{{ nextGallery }}/" class="gallery__nav-link">
+                Next Gallery <span class="gallery__nav-arrow gallery__nav-arrow--next"></span>
+              </a>
+            {% endif %}
+          </div>
+        {% elseif tags and "slide" in tags %}
+          <div class="gallery__nav-item">
+            <a href="../index.html" class="gallery__nav-link">
+              <span class="gallery__nav-arrow gallery__nav-arrow--prev"></span> Gallery View
+            </a>
+          </div>
+        {% endif %}
+      </nav>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}} | BRHG Archive</title>
+    <link rel="stylesheet" href="{{ '/css/lightbox.css' }}" />
+    <link rel="stylesheet" href="{{ '/css/style.css' }}" />
+    <link rel="icon" type="image/svg+xml" href="/images/favicons/favicon.svg">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" type="image/png" href="/images/favicons/apple-touch-icon.png">
+  </head>
+  <body class="{{ 'home' if './_dist/index.html' in page.outputPath }}">
+    <div class="menu-bar">
+        <nav class="top-menu">
+          <span class="top-menu__item">
+            <a href="{{ mainSiteReturnURL }}" class="top-menu__link top-menu__link--return-link" target="_blank">BRHG Main Site</a>
+          </span>
+      {% if page.url !== '/' %}
+          <span class="top-menu__item"><a href="{{ '/' }}index.html" class="top-menu__link">Archive Menu</a></span>
+      {% endif %}
+        </nav>
+      <div class="theme-switch">
+        <div id="theme-toggle-text" class="theme-switch__text"></div>
+        <label class="theme-switch__toggle">
+          <input id="theme-toggle" class="theme-switch__check" type="checkbox">
+          <span class="theme-switch__slider"></span>
+        </label>
+      </div>
+    </div>
+    <div class="page-content">
+      <main class="main-content">{{content | safe}}</main>
+      <footer class="footer">
+        <div class="footer__item">
+          <a href="https://brh.org.uk/site" class="footer__item-link">BRHG Main Site</a>
+        </div>
+        <div class="footer__spacer">|</div>
+        <div class="footer__item">
+          <a href="{{ 'privacy.njk' | inputPathToUrl }}" class="footer__item-link">BRHG Archive Privacy</a>
+        </div>
+        <div class="footer__spacer">|</div>
+        <div class="footer__item">
+          <a href="https://www.brh.org.uk/site/contact-us/" class="footer__item-link">Contact BRHG</a>
+        </div>
+      </footer>
+    </div>
+    {% if page.url !== '/' %}
+      <script src="{{'./js/lightbox.njk' | inputPathToUrl }}"></script>
+    {% endif %}
+    <script src="{{'./js/footer-scripts.njk' | inputPathToUrl }}"></script>
+  </body>
+</html>

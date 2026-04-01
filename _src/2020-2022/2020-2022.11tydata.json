@@ -1,0 +1,67 @@
+{
+  "title": "2020&ndash;2022",
+  "prevGallery": "2019",
+  "nextGallery": "2023",
+  "files": [
+    {
+      "filename": "2020_Misc",
+      "extension": "png",
+      "folder": "2020",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2020/",
+      "item": "Web-poster for the miscellaneous 2020 event series.",
+      "notes": "Adapted from a detail of <i>Americae nova Tabula</i>, Willem Janszoon Blaeu (1571&ndash;1638). A detail of the same map was also used for the pup-up banners produced to use on the BRHG bookstall.",
+      "categories": ["posters", "misc"]
+    },
+    {
+      "filename": "2021_Move-On-Over_poster",
+      "extension": "png",
+      "folder": "2021",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/move-on-over-from-countering-colston-to-black-lives-matter/",
+      "item": "Move On Over: From Countering Colston to Black Lives Matter 2021 poster.",
+      "notes": "The poster uses a photograph of the <a href='https://en.wikipedia.org/wiki/Statue_of_Edward_Colston' target='_blank'>toppling of Edward Colston's statue</a> in Bristol on 7<sup>th</sup> June 2020.",
+      "categories": ["posters"]
+    },
+    {
+      "filename": "2021_Misc",
+      "extension": "png",
+      "folder": "2021",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2021/",
+      "item": "Web-poster for the miscellaneous 2021 event series.",
+      "notes": "The design mimics the <a href='https://en.wikipedia.org/wiki/Statue_of_Edward_Colston' target='_blank'>toppling of Edward Colston's statue</a> in Bristol on 7<sup>th</sup> June 2020.",
+      "categories": ["posters", "misc"]
+    },
+    {
+      "filename": "2022_SBHF_poster",
+      "extension": "jpg",
+      "folder": "2022",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/south-bristol-history-festival-september-november-2022/",
+      "item": "South Bristol History Festival 2022 poster.",
+      "notes": "",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2022_BRHF_poster",
+      "extension": "png",
+      "folder": "2022",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2022/",
+      "item": "Bristol Radical History Festival 2022 poster.",
+      "notes": "Incorporating a photograph of a building in Presidio Modelo panopticon prison, Cuba, and the cranes outside M Shed, Bristol.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2022_Behind-The-Screen_poster",
+      "extension": "png",
+      "folder": "2022",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/behind-the-screen/",
+      "item": "Behind The Screen 2022 poster.",
+      "notes": "",
+      "categories": ["posters"]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+---
+title: Bristol Radical History Group Poster &amp; Flyer Archive
+---
+<h1 class="index-page__title">Welcome to the BRHG Poster &amp; Flyer Archive</h1>
+
+<div class="index-page__intro">
+  <p>Intro text here.</p>
+</div>
+
+<h2 class="index-page__sub-title">Galleries By Year</h2>
+<ul class="index-page__list">
+  {% for gallery in collections.orderedGalleries %}
+    <li class="index-page__list-item">
+      <a href="{{ gallery.url }}" class="index-page__list-item-link">
+        {{ gallery.data.title | safe }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2 class="index-page__sub-title">Galleries By Category</h2>
+  <ul class="index-page__list">
+    {% for cat in categories %}
+      <li class="index-page__list-item">
+        <a href="/{{ cat.name | slugify }}/" class="index-page__list-item-link">
+          {{ cat.shortLabel }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+<div class="letters">
+  <div class="letters__img-wrap">
+    <img src="/images/letters/B.png" alt="" class="letters__img">
+  </div>
+  <div class="letters__img-wrap">
+    <img src="/images/letters/R.png" alt="" class="letters__img">
+  </div>
+  <div class="letters__img-wrap">
+    <img src="/images/letters/H.png" alt="" class="letters__img">
+  </div>
+  <div class="letters__img-wrap">
+    <img src="/images/letters/G.png" alt="" class="letters__img">
+  </div>
+</div>

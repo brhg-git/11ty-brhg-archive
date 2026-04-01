@@ -1,0 +1,7 @@
+_dist/
+_src/archive-images/
+
+node_modules/
+.vscode/
+
+package-lock.json

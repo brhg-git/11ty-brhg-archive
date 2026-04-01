@@ -1,0 +1,57 @@
+{
+  "title": "2011&ndash;2013",
+  "prevGallery": "2010",
+  "nextGallery": "2014",
+  "files": [
+    {
+      "filename": "2011_RHZ_poster",
+      "extension": "png",
+      "folder": "2011",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/anarchist-bookfair-2011/",
+      "item": "Radical History Zone 2011 poster.",
+      "notes": "The Radical History Zones were collections of talks held at the Bristol Anarchist Bookfairs 2010&ndash;17.",
+      "categories": ["posters", "rhz"]
+    },
+    {
+      "filename": "2011_Misc",
+      "extension": "jpg",
+      "folder": "2011",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2011/",
+      "item": "Web-poster for the Miscellaneous 2007 event series.",
+      "notes": "Featuring a photograph depicting the <a href='https://www.brh.org.uk/site/articles/bread-or-batons-the-old-market-riots/' target='brhg'>Old Market Riot</a>, sparked by the National Unemployed Workers' Movement march in 1932.",
+      "categories": ["posters", "misc"]
+    },
+    {
+      "filename": "2012_Misc",
+      "extension": "png",
+      "folder": "2012",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2012/",
+      "item": "Web-poster for the Miscellaneous 2012 event series.",
+      "notes": "Adapted from a picture in <a href='https://digital.library.yale.edu/catalog/16593808' target='_blank'><i>Cartoons for the Cause 1886&ndash;1896 &hellip;</i></a> by Walter Crane (1845&ndash;1915), 1896. This image was also used on the front cover of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/the-bristol-strike-wave-pt2/' target='brhg'><i>The Bristol Strike Wave of 1889&ndash;1890 Part 2</i></a>.",
+      "categories": ["posters", "misc"]
+    },
+    {
+      "filename": "2013_Tolpuddle-Swing-Bridport_flyer",
+      "extension": "jpg",
+      "folder": "2013",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/tolpuddle-and-captain-swing-hidden-history/",
+      "item": "A flyer used to advertise the Tolpuddle and Swing event 2013.",
+      "notes": "Including a picture from <a href='https://archive.org/details/cassellshistoryo05londuoft/' target='_blank'><i>Cassell's History of England</i>, King's Edition, Volume V, published by Cassell and Company Ltd., 1909</a>.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2013_Misc",
+      "extension": "png",
+      "folder": "2013",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2013/",
+      "item": "Web-poster for the Miscellaneous 2013 event series.",
+      "notes": "A detail from a cartoon 'The Late Gasworkers' Strike And Our Ornamental Police' in <i>The Bristol Magpie</i> Saturday October 19<sup>th</sup>, 1889.",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

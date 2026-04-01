@@ -1,0 +1,50 @@
+---
+layout: template.njk
+---
+    {% if tags and "category" in tags %}
+      {% set files = collections.categories[cat.name] %}
+    {% endif %}
+
+<div class="gallery">
+  <header class="gallery__header">
+    <h1 class="gallery__title">{{ title | safe }} Gallery</h1>
+    {% include "partials/gallery-nav.njk" %}
+    <details class="gallery__details">
+      <summary  class="gallery__summary">Instructions</summary>
+      <ul class="gallery__instructions">
+        <li>Click on the thumbnail, or 'Open Slide' to see the single image slide. These slides contain the most information about the image.</li>
+        <li>Click the 'Open in Lightbox' below the thumbnail to see the image in the pop-up lightbox.</li>
+        <li>If using the lightbox, click through the pictures using the arrow keys, or arrow links.</li>
+        <li>Use the lights on/off button (top-right) to choose a black or white page colour.</li>
+        <li>Look at these images on a decent sized screen, rather than your phone.</li>
+      </ul>
+    </details>
+  </header>
+  <div class="gallery__thumbnails">
+    {% for file in files %}
+      <div id="brhg__{{file.filename}}" class="thumb">
+        <div class="thumb__wrap">
+          <div class="thumb__image">
+            <a href="/{% slideLink file %}" class="thumb__link" title="{{ file.item }}">
+              {% generateImgTag file, 'thumb', 'thumb__img' %}
+            </a>
+          </div>
+          <div class="thumb__title">
+            <a href="/{% slideLink file %}" class="thumb__title-link">Open slide</a>
+            {# htmlBaseUrl does not work in data- attributes, we must catch return from slideLink shortcode and pass to htmlBaseUrl filter manually #}
+            {% set LBLink %}/{% slideLink file %}{% endset %}
+            <a 
+              href="/{% imagePath file, 'large' %}" 
+              class="thumb__title-link" 
+              data-lightbox="{{page.fileSlug}}" 
+              data-title="{{file.item}} <a href='{{ LBLink | htmlBaseUrl }}'>More details&hellip;</a>"
+            >
+              Open in Lightbox
+            </a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  {% include "partials/gallery-nav.njk" %}
+</div>

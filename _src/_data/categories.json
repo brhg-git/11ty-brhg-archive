@@ -1,0 +1,65 @@
+[
+  {
+    "name": "posters",
+    "label": "Posters",
+    "shortLabel": "Posters",
+    "nextGallery": "flyers",
+    "prevGallery": ""
+  },
+  {
+    "name": "flyers",
+    "label": "Flyers",
+    "shortLabel": "Flyers",
+    "nextGallery": "programmes",
+    "prevGallery": "posters"
+  },
+  {
+    "name": "programmes",
+    "label": "Printed Programs",
+    "shortLabel": "Programmes",
+    "nextGallery": "leaflets",
+    "prevGallery": "flyers"
+  },
+  {
+    "name": "leaflets",
+    "label": "Leaflets",
+    "shortLabel": "Leaflets",
+    "nextGallery": "festivals",
+    "prevGallery": "programmes"
+  },
+  {
+    "name": "festivals",
+    "label": "Bristol Radical History Festivals 2017&ndash;Present",
+    "shortLabel": "Festivals",
+    "nextGallery": "rhz",
+    "prevGallery": "leaflets"
+  },
+  {
+    "name": "rhz",
+    "label": "Radical History Zones 2010&ndash;2016",
+    "shortLabel": "Zones",
+    "nextGallery": "weeks",
+    "prevGallery": "misc"
+  },
+  {
+    "name": "weeks",
+    "label": "Bristol Radical History Weeks 2006&ndash;2010",
+    "shortLabel": "Weeks",
+    "nextGallery": "rrwwi",
+    "prevGallery": "rhz"
+  },
+  {
+    "name": "rrwwi",
+    "label": "Remembering The Real World War I",
+    "shortLabel": "RRWWI",
+    "nextGallery": "misc",
+    "prevGallery": "weeks"
+  },
+  {
+    "name": "misc",
+    "label": "Miscellaneous Event Series Posters",
+    "shortLabel": "Misc. Events",
+    "nextGallery": "",
+    "prevGallery": "rrwwi"
+  }
+]

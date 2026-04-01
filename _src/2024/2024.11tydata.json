@@ -1,0 +1,57 @@
+{
+  "title": "2024",
+  "prevGallery": "2023",
+  "nextGallery": "2025",
+  "files": [
+    {
+      "filename": "2024_BRHF_poster",
+      "extension": "png",
+      "folder": "2024",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2024/",
+      "item": "Bristol Radical History Festival 2024 poster.",
+      "notes": "",
+      "categories": ["festivals", "posters"]
+    },
+    {
+      "filename": "2024_May-Day_flyer",
+      "extension": "jpg",
+      "folder": "2024",
+      "item": "A flyer used to advertise When Bristol Fought Back, May Day 2024.",
+      "link": "Go to event",
+      "url": "https://www.brh.org.uk/site/events/brhg-mayday-event-when-bristol-fought-back/",
+      "notes": "Adapted from 'Bristol Tramways Strike. Scene outside Brislington Depot during dispute' by E. Coffin, in <a href='https://archive.org/details/apostleoffreelab00coll' target='_blank'><i>The Apostle of Free Labour: The Life Story of William Collinson Founder and General Secretary of the National Free Labour Association</i></a>, by William Collinson, 1913. This image was also used on the covers of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/bristol-labour-unrest-1910-14/' target='_blank'><i>Bristol and the Labour Unrest of 1910-14</i></a>, and for the miscellaneous 2024 event series web-poster.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2024_SBHF_poster",
+      "extension": "jpg",
+      "folder": "2024",
+      "link": "Got to the event series",
+      "url": "https://www.brh.org.uk/site/event-series/south-bristol-radical-history-festival-2024/",
+      "item": "South Bristol History festival 2024 poster.",
+      "notes": "",
+      "categories": ["festivals", "posters"]
+    },
+    {
+      "filename": "2024_Miners-Support-Group-Archive_leaflet",
+      "extension": "jpg",
+      "folder": "2024",
+      "link": "Go to project",
+      "url": "https://www.brh.org.uk/site/project/bmsc-archive/",
+      "item": "Bristol Miners Support Group Archive leaflet 2024.",
+      "notes": "This leaflet was used to appeal for artefacts related to the Bristol Miners Support Group, which formed during the 1984&ndash;85 miners strike. It features flyers, posters and photographs already collected for the archive.",
+      "categories": ["leaflets"]
+    },
+    {
+      "filename": "2024_Misc",
+      "extension": "jpg",
+      "folder": "2024",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2024/",
+      "item": "Web-poster for the miscellaneous 2024 event series.",
+      "notes": "Adapted from 'Bristol Tramways Strike. Scene outside Brislington Depot during dispute' by E. Coffin, in <a href='https://archive.org/details/apostleoffreelab00coll' target='_blank'><i>The Apostle of Free Labour: The Life Story of William Collinson Founder and General Secretary of the National Free Labour Association</i></a>, by William Collinson, 1913. This image was also used on the covers of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/bristol-labour-unrest-1910-14/' target='brhg'><i>Bristol and the Labour Unrest of 1910-14</i></a>, and for the May Day flyer from 2024.",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

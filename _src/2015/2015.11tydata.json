@@ -1,0 +1,57 @@
+{
+  "title": "2015",
+  "prevGallery": "2014",
+  "nextGallery": "2016",
+  "files": [
+    {
+      "filename": "2015_RHZ_poster",
+      "extension": "jpg",
+      "folder": "2015",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-anarchist-bookfair-2015/",
+      "item": "Radical History Zone 2015 poster.",
+      "notes": "The two figures are from from a 'gallows ticket' for the execution of <a href='https://en.wikipedia.org/wiki/Jonathan_WildJonathan' target='_blank'> Jonathan Wild (1682 or 1683&ndash;1725)</a>, engraved by Thomas Cook (c.1744&ndash;1818). The gallows ticket was also adapted into the BRHG logo. The Radical History Zones were collections of talks held at the Bristol Anarchist Bookfairs 2010&ndash;17.",
+      "categories": ["posters", "rhz"]
+    },
+    {
+      "filename": "2015_RHZ_flyer",
+      "extension": "jpg",
+      "folder": "2015",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-anarchist-bookfair-2015/",
+      "item": "Radical History Zone 2015 flyer.",
+      "notes": "The two figures are from from a 'gallows ticket' for the execution of <a href='https://en.wikipedia.org/wiki/Jonathan_WildJonathan' target='_blank'> Jonathan Wild (1682 or 1683&ndash;1725)</a>, engraved by Thomas Cook (c.1744&ndash;1818). The gallows ticket was also adapted into the BRHG logo. The Radical History Zones were collections of talks held at the Bristol Anarchist Bookfairs 2010&ndash;17.",
+      "categories": ["flyers", "rhz"]
+    },
+    {
+      "filename": "2015_Workhouse-Memorial_programme",
+      "extension": "jpg",
+      "folder": "2015",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/eastville-workhouse-burial-ground-memorial-unveiling-ceremony/",
+      "item": "The printed programme for the unveiling of the Eastville Workhouse burial ground memorial, 16 November 2015.",
+      "notes": "The image is from the 1894&ndash;1903 25 inch Ordnance Survey map.",
+      "categories": ["programmes"]
+    },
+    {
+      "filename": "2015_WWI_Miners-1915_flyer",
+      "extension": "png",
+      "folder": "2015",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/the-kaisers-black-guards/",
+      "item": "A flyer advertising The Kaiser's Black Guard event from 2015.",
+      "notes": "The cartoon 'Kaiser's Black Guards' is from <i>Western Mail</i>, 14 July 1915.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2015_Misc",
+      "extension": "jpg",
+      "folder": "2015",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2015/",
+      "item": "Web-poster for the miscellaneous 2015 event series.",
+      "notes": "Adapted from an illustration in <a href='https://gallica.bnf.fr/ark:/12148/btv1b10542297k/f15' target='_blank'><i>Danse macabre, ou l'Empire de la Mort</i></a>, published by Antoine Vérard (active 1485&dash;1512) in the 1490s.",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

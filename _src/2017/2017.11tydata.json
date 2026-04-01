@@ -1,0 +1,77 @@
+{
+  "title": "2017",
+  "prevGallery": "2016",
+  "nextGallery": "2018",
+  "files": [
+    {
+      "filename": "2017_BRHF_poster",
+      "extension": "jpg",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/radical-history-festival-2017/",
+      "item": "Bristol Radical History Festival 2017 poster.",
+      "notes": "This poster is from the first Bristol Radical History Festival in 2017. It features the cranes outside the M Shed museum, which was the venue for the festival.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2017_BRHF_flyer",
+      "extension": "jpg",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/radical-history-festival-2017/",
+      "item": "Bristol Radical History Festival 2017 flyer.",
+      "notes": "This flyer is from the first Bristol Radical History Festival in 2017. It features the cranes outside the M Shed museum, which was the venue for the festival.",
+      "categories": ["flyers", "festivals"]
+    },
+    {
+      "filename": "2017_BRHF_programme_outside",
+      "extension": "png",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/radical-history-festival-2017/",
+      "item": "Printed programme outsides from Bristol Radical History Festival 2017",
+      "notes": "This was the printed programme from the first Bristol Radical History Festival in 2017. The cover features the cranes outside the M Shed museum, which was the venue for the festival.",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2017_BRHF_programme_inside",
+      "extension": "png",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/radical-history-festival-2017/",
+      "item": "Printed programme insides from Bristol Radical History Festival 2017",
+      "notes": "This was the printed programme from the first Bristol Radical History Festival in 2017.",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2017_WWI_Resistance-to-War_poster",
+      "extension": "jpg",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/resistance-war-german-perspectives-1914-1933/",
+      "item": "Remembering The Real WWI Resistance to War event series 2017 poster.",
+      "notes": "Featuring a still from the film <i>Vestfronten 1918</i>, 1930, directed by Georg Wilhelm Pabst (1885&ndash;1967). <a href='https://www.brh.org.uk/site/events/film-showing-westfront-1918/' target='brhg'>The film was shown as part of the event series</a>.",
+      "categories": ["posters", "rrwwi"]
+    },
+    {
+      "filename": "2017_WWI_Resistance-To-War_Programme-ALL",
+      "extension": "jpg",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/resistance-war-german-perspectives-1914-1933/",
+      "item": "The printed programme from Remembering The Real WWI Resistance to War event series 2017.",
+      "notes": "Featuring a still from the film <a href='https://en.wikipedia.org/wiki/Westfront_1918' target='_blank'><i>Vestfronten 1918</i></a>, 1930, directed by Georg Wilhelm Pabst (1885&ndash;1967). <a href='https://www.brh.org.uk/site/events/film-showing-westfront-1918/' target='brhg'>The film was shown as part of the event series</a>. The silhouette is adaptation of a still from the film <a href='https://www.iwm.org.uk/history/first-world-war/battle-of-the-somme/geoffrey-malins-and-the-battle-of-the-somme-film' target='_blank'><i>Battle of the Somme</i></a>, directed by Geoffrey Malins, 1916.",
+      "categories": ["programmes", "rrwi"]
+    },
+    {
+      "filename": "2017_Misc",
+      "extension": "jpg",
+      "folder": "2017",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2017/",
+      "item": "Web-poster for the miscellaneous 2015 event series.",
+      "notes": "Adapted from a <a href='https://artuk.org/discover/artworks/national-federation-of-women-workers-banner-206711' target='_blank'>National Federation of Women Workers banner</a>, which is in the People's History Museum, Manchester. The design was itself adapted from the front cover of <a href='https://collections.vam.ac.uk/item/O834250/the-woman-worker-print-walter-crane/' target='_blank'><i>The Woman Worker</i></a> magazine, March 1916, designed by Walter Crane (1845&ndash;1915).",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "2018",
+  "prevGallery": "2017",
+  "nextGallery": "2019",
+  "files": [
+    {
+      "filename": "2018_BRHF_poster_dark",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2018/",
+      "item": "Bristol Radical History Festival 2018 poster.",
+      "notes": "Featuring the cranes outside the M Shed museum, which was the venue for the festival. The poster was produced in two colour schemes.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2018_BRHF_poster_light",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2018/",
+      "item": "Bristol Radical History Festival 2018 poster.",
+      "notes": "Featuring the cranes outside the M Shed museum, which was the venue for the festival. The poster was produced in two colour schemes.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2018_BRHF_programme_outside",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2018/",
+      "item": "The printed programme outsides for Bristol Radical History Festival 2018.",
+      "notes": "The front cover features the cranes outside the M Shed museum, which was the venue for the festival.",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2018_BRHF_programme_inside",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2018/",
+      "item": "The printed programme insides for Bristol Radical History Festival 2018.",
+      "notes": "",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2018_Frederick-Douglas_Flyer",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/the-lion-of-the-occasion-frederick-douglass-in-bristol/",
+      "item": "A flyer that advertised the A Lion For The Occasion event in 2018.",
+      "notes": "Featuring a portrait of abolitionist Frederick Douglass from the Bettman collection. The background is adapted from a <a href='https://archives.bristol.gov.uk/records/43207/9/11/111' target='_blank'>postcard</a> '55 War Memorial &amp; Victoria Rooms, Clifton' published by J.B. & S.C. in the Avonvale Series.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2018_Greece-Hidden-War_flyer",
+      "extension": "jpg",
+      "folder": "2018",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/film-screening-greece-the-hidden-war/",
+      "item": "A flyer that advertised the Greece: The hidden War event in 2018.",
+      "notes": "The flyer front contains stills from <a href='https://en.wikipedia.org/wiki/Greece:_The_Hidden_War' target='_blank'>Greece: The Hidden War, Part One&mdash;The Battle for Athens</a>, the 1986 documentary that was show at The Cube.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2018_Misc",
+      "extension": "png",
+      "folder": "2018",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2018/",
+      "item": "Web-poster for the miscellaneous 2018 event series.",
+      "notes": "Adapted from <a href='https://cudl.lib.cam.ac.uk/view/PR-INC-00000-A-00007-00002-00888/573' target='_blank'>'Dance of Death'</a> by Michael Wolgemut (1434&ndash;1519) in <i>The Nuremberg Chronicle</i> by Hartmann Schedel (1440&ndash;1514), 1493. The dancing skeletons were also used for the Merry Hell flyer in 2007.",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

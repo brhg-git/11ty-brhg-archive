@@ -1,0 +1,67 @@
+{
+  "title": "2025",
+  "prevGallery": "2024",
+  "nextGallery": "",
+  "files": [
+    {
+      "filename": "2025_BRHF_poster",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2025/",
+      "item": "Bristol Radical History Festival 2025 poster.",
+      "notes": "Adapted from a photograph of Croydon House in Lawrence Hill, Bristol.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2025_BRHF_flyer",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2025/",
+      "item": "Bristol Radical History Festival 2025 flyer.",
+      "notes": "Adapted from a photograph of Croydon House in Lawrence Hill, Bristol.",
+      "categories": ["flyers", "festivals"]
+    },
+    {
+      "filename": "2025_BRHF_programme_outside",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2025/",
+      "item": "Printed programme outsides from Bristol Radical History Festival 2025.",
+      "notes": "The cover is adapted from a photograph of Croydon House in Lawrence Hill, Bristol.",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2025_BRHF_programme_inside",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2025/",
+      "item": "Printed programme insides from Bristol Radical History Festival 2025.",
+      "notes": "",
+      "categories": ["programme", "festivals"]
+    },
+    {
+      "filename": "2025_Annie-Townley",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Go to event",
+      "url": "",
+      "item": "A flyer used to advertise a talk on Annie Townley in 2025.",
+      "notes": "Adapted from a picture in <a href='https://archive.org/details/labour-organiser_1925-09_5_57/' target='_blank'><i>Labour Organiser</i></a>, September 1925. The background is adapted from oak themed wallpaper, designed by John Henry Dearle (1859&ndash;1932) and published by Morris & Co. The same oak pattern was used for the front cover of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/annie-townley/' target='_blank'><i>Annie Townley: A force for socialism and peace</i></a>.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2025_Misc",
+      "extension": "png",
+      "folder": "2025",
+      "link": "Got to event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2025/",
+      "item": "Web-poster for the miscellaneous 2025 event series.",
+      "notes": "Adapted from Bristol Archives 12782(25), Bristol Corporation Baths brochure (c1930s). This image was also used for the covers of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/city-of-swimmers/' target='_blank'><i>City of Swimmers</i></a>",
+      "categories": ["misc", "posters"]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "2019",
+  "prevGallery": "2018",
+  "nextGallery": "2020-2022",
+  "files": [
+    {
+      "filename": "2019_BRHF_poster",
+      "extension": "png",
+      "folder": "2019",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2019/",
+      "item": "Bristol Radical History Festival 2019 poster.",
+      "notes": "Red and green represent the festival's themes of 1919: Britain and Ireland in the 'Year of Revolutions', and Green History: from 18<sup>th</sup> Century roots to Extinction Rebellion.",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2019_BRHF_flyer",
+      "extension": "png",
+      "folder": "2019",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2019/",
+      "item": "Bristol Radical History Festival 2019 flyer.",
+      "notes": "Red and green represent the festival's themes of 1919: Britain and Ireland in the 'Year of Revolutions', and Green History: from 18<sup>th</sup> Century roots to Extinction Rebellion.",
+      "categories": ["flyers", "festivals"]
+    },
+    {
+      "filename": "2019_WWI_CO-Festival_poster",
+      "extension": "jpg",
+      "folder": "2019",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/commemoration-conflict-conscience/",
+      "item": "Commemoration, Conflict & Conscience 2019 poster.",
+      "notes": "The poster is by Bo Lanyon, featuring a sculpture by Andy De Comyn.",
+      "categories": ["posters", "rrwwi"]
+    },
+    {
+      "filename": "2019_Riots-Massacres-and-Reform_flyer",
+      "extension": "jpg",
+      "folder": "2019",
+      "link": "Event",
+      "url": "https://www.brh.org.uk/site/events/history-walk-riots-massacres-and-reform-1700s-1832/",
+      "item": "A flyer that advertised the Riots, Massacres and Reform 1700s-1832 history walk.",
+      "notes": "The flyer uses a detail from an engraving depicting the Queen Square, on the Night of the 1831 Bristol riots. The engraving was made from an original drawing by William James Müller (1812&ndash;1845).",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2019_Misc",
+      "extension": "jpg",
+      "folder": "2019",
+      "link": "Event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2019/",
+      "item": "Web-poster for the miscellaneous 2019 event series.",
+      "notes": "Featuring a photograph of the Whiteford brothers. The Whiteford brothers were three brothers from St George. During the war, Graham had served in the army; Hubert had been imprisoned as a CO; Wilfred served in the Non-Combatant Corps. In 1919 their father had this photograph taken of his sons. The photograph was also used in a poster advertising the Refusing To Kill exhibition at Bristol Archives, and the cover of the BRHG publication <a href='https://www.brh.org.uk/site/pamphleteer/refusing-to-kill/' target='_blank'><i>Refusing to Kill</i></a>.",
+      "categories": ["posters", "misc"]
+    }
+  ]
+}

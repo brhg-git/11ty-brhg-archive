@@ -1,0 +1,75 @@
+---
+layout: template.njk
+tags: slide
+---
+
+{# For previous and next slide images #}
+{% set previousItem = pagination.page.previous or pagination.page.last %}
+{% set nextItem = pagination.page.next or pagination.page.first %}
+
+<div class="slide">
+  <header class="slide__header">
+    <h1 class="slide__title">
+      <a href="../index.html#brhg__{{ file.filename }}" class="slide__title-link">{{ title | safe }} Gallery</a>
+    </h1>
+    <h2 class="slide__subtitle">Slide {{ pagination.pageNumber + 1 }} / {{ pagination.pages.length }} : {{ file.filename | safe }}</h2>
+    {% include "partials/gallery-nav.njk" %}
+  </header>
+  <div id="slide-image" class="slide-image">
+    <div class="slide-image__img-wrap">
+      {% generateImgTag file, 'large', 'slide-image__img' %}
+    <div class="slide-image__nav"> 
+      <a href="{{ previousSlide }}" class="slide-image__nav-item slide-image__nav-item--prev">
+        {% if previousSlide != "#" %}
+          <span class="slide-image__nav-arrow slide-image__nav-arrow--prev"></span>
+        {% endif %}
+      </a>
+      <a href="{{ nextSlide }}" class="slide-image__nav-item slide-image__nav-item--next">
+        {% if nextSlide != "#" %}
+          <span class="slide-image__nav-arrow slide-image__nav-arrow--next"></span>
+        {% endif %}
+      </a> 
+    </div>
+    </div>
+  </div>
+  <div class="slide-details">
+    <p class="slide-details__item"><span class="slide-details__item-label">Item:</span> {{ file.item | safe }}</p>
+    <p class="slide-details__item"><span class="slide-details__item-label">Ref:</span> {{ file.filename | safe }}</p>
+    {% if file.url | length %}
+      <p class="slide-details__item">
+        <span class="slide-details__item-label">{{ file.link | safe }} link:</span> 
+        <a href="{{ file.url }}" target="brhg" class="slide-details__item-link"> {{ file.url | safe }}</a>
+      </p>
+    {% endif %}
+    {% if file.notes | length %}
+      <p class="slide-details__item slide-details__item--notes"><span class="slide-details__item-label">Notes:</span> {{ file.notes | safe }}</p>
+    {% endif %}
+  </div>
+</div>
+<nav class="slide-nav">
+  <ul class="slide-nav__list">
+    <li class="slide-nav__item slide-nav__item--previous">
+      {% if previousSlide != "#" %}
+        <a href="{{ previousSlide }}" class="slide-nav__link">
+          <div class="slide-nav__text">Previous Slide</div>
+          <div class="slide-nav__img-wrap">
+            {% generateImgTag previousItem, 'thumb', 'slide-nav__img' %}
+          </div>
+        </a>
+      {% endif %}
+    </li>
+    <li class="slide-nav__item slide-nav__item--gallery">
+      <a href="../index.html#brhg__{{ file.filename }}" class="slide-nav__link">Gallery</a>
+    </li>
+    <li class="slide-nav__item slide-nav__item--next">
+      {% if nextSlide != "#" %}
+        <a href="{{ nextSlide }}" class="slide-nav__link">
+          <div class="slide-nav__text">Next Slide</div>
+          <div class="slide-nav__img-wrap">
+            {% generateImgTag nextItem, 'thumb', 'slide-nav__img' %}
+          </div>
+        </a>
+      {% endif %}
+    </li>
+  </ul>
+</nav>
