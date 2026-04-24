@@ -1,7 +1,7 @@
 {
   "title": "2025",
   "prevGallery": "2024",
-  "nextGallery": "",
+  "nextGallery": "2026",
   "files": [
     {
       "filename": "2025_BRHF_poster",
@@ -41,7 +41,7 @@
       "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2025/",
       "item": "Printed programme insides from Bristol Radical History Festival 2025.",
       "notes": "",
-      "categories": ["programme", "festivals"]
+      "categories": ["programmes", "festivals"]
     },
     {
       "filename": "2025_Annie-Townley",

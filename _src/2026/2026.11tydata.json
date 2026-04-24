@@ -1,0 +1,87 @@
+{
+  "title": "2026",
+  "prevGallery": "2025",
+  "nextGallery": "",
+  "files": [
+    {
+      "filename": "2026_BRHF_poster",
+      "extension": "png",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2026/",
+      "item": "Bristol Radical History Festival 2026 poster.",
+      "notes": "The figures at the bottom are adapted from <a href='https://en.wikipedia.org/wiki/Isotype_(picture_language)' target='_blank'><i>Isotype 'Picture dictionary'</i></a> by Gerd Arntz (1900&ndash;1988), 1929&ndash;33",
+      "categories": ["posters", "festivals"]
+    },
+    {
+      "filename": "2026_BRHF_flyer",
+      "extension": "png",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2026/",
+      "item": "Bristol Radical History Festival 2026 flyer.",
+      "notes": "The figures at the bottom are adapted from <a href='https://en.wikipedia.org/wiki/Isotype_(picture_language)' target='_blank'><i>Isotype 'Picture dictionary'</i></a> by Gerd Arntz (1900&ndash;1988), 1929&ndash;33",
+      "categories": ["flyers", "festivals"]
+    },
+    {
+      "filename": "2026_BRHF_programme_outside",
+      "extension": "png",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2026/",
+      "item": "Printed programme outsides from Bristol Radical History Festival 2026.",
+      "notes": "The figures at the bottom of the front cover are adapted from <a href='https://en.wikipedia.org/wiki/Isotype_(picture_language)' target='_blank'><i>Isotype 'Picture dictionary'</i></a> by Gerd Arntz (1900&ndash;1988), 1929&ndash;33",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2026_BRHF_programme_inside",
+      "extension": "png",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/bristol-radical-history-festival-2026/",
+      "item": "Printed programme insides from Bristol Radical History Festival 2026.",
+      "notes": "",
+      "categories": ["programmes", "festivals"]
+    },
+    {
+      "filename": "2026_1926-General-Strike-Event-Series_poster",
+      "extension": "jpg",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/1926-general-strike-centenary/",
+      "item": "1926 General Strike centenary event series poster.",
+      "notes": "Adapted from a photograph of strikers in the North East of England, 1926.",
+      "categories": ["posters"]
+    },
+    {
+      "filename": "2026_1926-General-Strike-Event-Series_flyer",
+      "extension": "jpg",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/event-series/1926-general-strike-centenary/",
+      "item": "1926 General Strike centenary event series flyer.",
+      "notes": "Adapted from a photograph of strikers in the North East of England, 1926.",
+      "categories": ["flyers"]
+    },
+    {
+      "filename": "2026_1926-General-Strike-Publication-Series_poster",
+      "extension": "jpg",
+      "folder": "2026",
+      "link": "Go to event series",
+      "url": "https://www.brh.org.uk/site/2026/04/general-strike-centenary-series/",
+      "item": "1926 General Strike centenary publication series poster",
+      "notes": "Adapted from a photograph of strikers in the North East of England, 1926.",
+      "categories": ["posters"]
+    },
+    {
+      "filename": "2026_Misc",
+      "extension": "jpg",
+      "folder": "2026",
+      "link": "Got to event series",
+      "url": "https://www.brh.org.uk/site/event-series/miscellaneous-2026/",
+      "item": "Web-poster for the miscellaneous 2025 event series.",
+      "notes": "Adapted from William Morris' 1875 Acanthus wallpaper, the first wallpaper released by Morris &amp; Co.",
+      "categories": ["misc", "posters"]
+    }
+  ]
+}
