@@ -269,9 +269,31 @@ ul {
   &__intro {
     max-width: $block-text-width;
     line-height: 1.6;
+    margin-bottom: 70px;
 
     & a {
       @extend %text-link-hover;
+      text-decoration-thickness: 0.05em;
+
+      &:hover {
+        text-decoration-style: solid;
+      }
+    }
+
+    &-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    &-list li {
+      background-image: url(../images/q.svg);
+      background-size: 0.65em auto;
+      background-repeat: no-repeat;
+      background-position: 0 6px;
+      padding-left: 1.2em;
+      margin-left: 1em;
+      margin-right: 1em;
+      line-height: 1.6;
     }
   }
 
@@ -323,6 +345,16 @@ ul {
   &__list-item-link:hover {
     @extend %text-link-hover;
   }
+}
+
+.index-page__quote {
+  max-width: $block-text-width;
+  line-height: 1.6;
+  text-align: center;
+  margin: 15vw auto 115px;
+  padding: 1em 0;
+  border-top: 1px solid $primary;
+  border-bottom: 1px solid $primary;
 }
 
 .gallery {
@@ -450,11 +482,10 @@ ul {
     text-align: center;
     word-break: break-all;
     margin-top: 0.5em;
-    container-type: inline-size;
   }
 
   &__title-link {
-    font-size: 2.2cqh;
+    font-size: clamp(1rem, 2vw, 1.3rem);
     display: block;
     margin-bottom: 0.35em;
 
@@ -717,7 +748,6 @@ ul {
 .letters {
   display: flex;
   gap: 2%;
-  margin-top: 15vw;
   justify-content: center;
 
   &__img {

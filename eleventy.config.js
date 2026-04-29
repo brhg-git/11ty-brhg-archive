@@ -175,6 +175,7 @@ export default function (eleventyConfig) {
    ***************************************************************************/
   eleventyConfig.addPassthroughCopy('**/large');
   eleventyConfig.addPassthroughCopy('**/thumb');
+  eleventyConfig.addPassthroughCopy('_src/images/q.svg');
   eleventyConfig.addPassthroughCopy('_src/images/favicons');
   eleventyConfig.addPassthroughCopy('_src/images/letters');
   // Lightbox button images
