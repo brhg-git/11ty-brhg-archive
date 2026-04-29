@@ -120,6 +120,10 @@ ul {
   line-height: 1.5em;
 }
 
+.monospace {
+  font-family: monospace;
+}
+
 .menu-bar {
   @extend %content-width;
   margin-top: 25px;
@@ -264,6 +268,7 @@ ul {
 
   &__intro {
     max-width: $block-text-width;
+    line-height: 1.6;
 
     & a {
       @extend %text-link-hover;
